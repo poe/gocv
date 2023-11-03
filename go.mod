@@ -1,4 +1,4 @@
-module github.com/poe/gocv
+module gocv.io/x/gocv
 
 go 1.13
 
